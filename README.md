@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Otavio Augusto
 - 👀 I’m interested in C#, SQL, Java, Kotlin.
-- 🌱 I’m currently learning Java, SQL and C#.
+- 🌱 I’m currently learning C#, SQL and Java.
 - 💞️ I’m passionate about technology.
 
 <!---
